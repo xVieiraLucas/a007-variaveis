@@ -1,8 +1,7 @@
 //const nome 
 //let idade
 //console.log(nome, typeof nome, idade, typeof idade)
-// Tanto o nome como idade foi gerado como string, 
-// pois não especifiquei que a idade deve ser transformada em número.
+// Tanto o nome como idade foi undefined, pois não atribuimos valores, e não especificamos qual tipo de variavel queremos 
 
 const nome = prompt("Qual o seu nome ?")
 let idade = Number(prompt("Qual a sua idade ?"))
