@@ -22,5 +22,6 @@ Construa um programa, seguindo os seguintes passos:
 >💡  Dica: para imprimir mais de um valor na mesma linha, você pode usar essa sintaxe:
 ```jsx
 console.log(valor1, valor2)
-```
-    
+``
+
+
